@@ -2,7 +2,6 @@
 
 You can use sudo for touch id. This idea comes from [this video](https://www.youtube.com/watch?v=qOrlYzqXPa8&t=633s)
 
-## How to
 
 ```sh
 sudo nano /etc/pam.d/sudo

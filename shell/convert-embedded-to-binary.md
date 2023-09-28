@@ -1,14 +1,6 @@
-# Binary files
+# Convert embedded to binary
 
-The following routines allow you to convert binary files to an embeddable C++ header file, or take a previously generated header file and go back to a binary file
-
-## Convert binary to embeddable
-
-```sh
-xxd -i binary_file > binary_file.h
-```
-
-## Convert embedded to binary
+The following routine will take a [previously generated header file](./convert-binary-to-embeddable) and go back to a binary file
 
 ```C++
 std::fstream input_file (input_path);
@@ -50,4 +42,4 @@ output.write ((char *) chars_from_file.data (), chars_from_file.size () * sizeof
 output.close ();
 ```
 
-# shell
+#shell

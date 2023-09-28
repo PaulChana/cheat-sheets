@@ -1,7 +1,7 @@
 # Print a stack trace
 
 Note - This will only work on 'nix style systems. Its also a nasty bit of code, so use with absolute caution.
-Note - I have no idea where this code came from original.  I didnt write it, and it could **definately** use so fixing up.
+Note - I have no idea where this code came from originally.  I didn't write it, and it could **definitely** use some fixing up.
 
 ```C++
 #include <stdio.h>

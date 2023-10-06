@@ -21,4 +21,4 @@ hdiutil detach "$dmg_volume"
 hdiutil convert -format UDZO -o "$dmg_path" "$dmg_build_path" -shadow
 ```
 
-#shell #dmg
+#shell #disk-image

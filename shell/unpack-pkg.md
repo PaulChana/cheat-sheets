@@ -6,4 +6,4 @@ cd foo
 xar -xf ../foo.pkg
 ```
 
-#shell 
+#shell #pkg

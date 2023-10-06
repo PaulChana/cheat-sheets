@@ -8,4 +8,4 @@ cd foo.pkg
 cat Payload | gunzip -dc |cpio -i
 ```
 
-#shell 
+#shell #pkg

@@ -1,4 +1,4 @@
-# Replace string in node file
+# Replace string in file
 
 ```js
 const replaceStringInFile = (filePath, search, replace) => {
@@ -12,4 +12,4 @@ fs.writeFileSync(filePath, newLines.join('\n'), 'utf8');
 };
 ```
 
-#node
+#node #javascript 

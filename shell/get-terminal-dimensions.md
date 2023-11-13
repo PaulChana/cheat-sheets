@@ -1,8 +1,16 @@
 # Get terminal dimensions
 
+
+## Get number of lines
+
 ```sh
-tput lines # Print number of lines
-tput cols  # Print number of columns
+tput lines
+```
+
+## Get number of columns
+
+```sh
+tput cols 
 ```
 
 #shell 

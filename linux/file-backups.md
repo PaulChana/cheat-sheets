@@ -1,6 +1,6 @@
 # File backup script
 
-Write this to `/usr/local/bin/sync_files.sh`
+Write this to `/usr/local/bin/sync_disks.sh`
 
 ```sh
 #!/bin/bash

@@ -28,3 +28,5 @@ adb -s 9APAY1EM6H tcpip 5555
 ```
 
 Once you have done this your wireless debugging should be connected
+
+#android #adb
